@@ -41,7 +41,7 @@ Allows the user to submit a form to look up a stock's current price, retrieving 
 
 
 ### Sell
-Allows the user to "sell" shares of any stock currently owned in their portfolio. 
+Allows the user to "sell" shares of any stock currently owned in their portfolio. Then redirect to the homepage.
 
 <img src="https://github.com/OnurAltayTopaloglu/finance-cs50x/blob/main/static/sell_img.png" alt="drawing" width="600"/>
 <img src="https://github.com/OnurAltayTopaloglu/finance-cs50x/blob/main/static/sell_img2.png" alt="drawing" width="600"/>
